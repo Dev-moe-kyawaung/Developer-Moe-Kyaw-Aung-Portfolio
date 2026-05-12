@@ -1,0 +1,19 @@
+```
+MIT License
+
+Copyright (c) 2024 Developer Moe Kyaw Aung
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+```
+
+### 3. `package.json` (Optional - for npm tools)
+```json
+{
+  "name": "moe-kyaw-aung-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Ready to deploy!'"
+  }
+}
